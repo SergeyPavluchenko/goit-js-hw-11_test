@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAMA,EAAOC,SAASC,cAAc,QACpCC,QAAQC,IAAIJ","sources":["src/index.js"],"sourcesContent":["const form = document.querySelector('form');\nconsole.log(form);\n"],"names":["$1f0dc3b9307be026$var$form","document","querySelector","console","log"],"version":3,"file":"index.602d6ab6.js.map"}
