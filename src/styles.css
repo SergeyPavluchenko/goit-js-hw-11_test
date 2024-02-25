@@ -1,0 +1,23 @@
+body {
+  background-color: #e8fbfc;
+  margin: 0;
+  padding: 0;
+}
+
+.container-form {
+  background-color: #0356fc;
+  color: red;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  display: block;
+  padding: 15px;
+  margin: 0 auto;
+}
+.search-form {
+  justify-content: center;
+  display: flex;
+}
+.render-block {
+  margin: 20px 8px;
+  padding: 10px 20px;
+}
