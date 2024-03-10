@@ -7,7 +7,7 @@ body {
     Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #fafafa;
+  background-color: #e9f5f4;
   color: #212121;
   line-height: 1.5;
   margin: 0;
@@ -18,6 +18,15 @@ img {
   max-width: 100%;
   border: 1px solid #0d161b;
   border-radius: 5px;
+}
+input {
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+}
+.js-saerch {
+  border-radius: 5px;
+  background: #09d5e8;
 }
 
 .container-form {
@@ -30,14 +39,8 @@ img {
   margin: 0 auto;
 }
 
-/* js-saerch:focus {
-js-search:hover {
-js-search  background-color: #7b60f1;
-} */
 .js-saerch {
   cursor: pointer;
-  button: hover;
-  button: focus;
 }
 .search-form {
   justify-content: center;
